@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0001-two-sum/) | Easy |
+| [0075-sort-colors](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0075-sort-colors/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
