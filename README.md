@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0075-sort-colors/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
