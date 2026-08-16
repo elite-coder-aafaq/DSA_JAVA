@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0496-next-greater-element-i) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -97,4 +99,9 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
