@@ -59,6 +59,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
