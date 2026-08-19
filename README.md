@@ -63,6 +63,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -123,4 +124,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
