@@ -14,8 +14,8 @@
  * }
  */
 class Solution {
-    List<Integer> ans=new ArrayList<>();
-    public void traversal(TreeNode root)
+     List<Integer> ans=new ArrayList<>();
+    public  void traversal(TreeNode root)
     {
         if(root==null)
         {
