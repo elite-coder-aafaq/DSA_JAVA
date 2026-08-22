@@ -23,14 +23,6 @@ class Solution {
         {
             return false;
         }
-        if (!isSameTree(p.left,q.left))
-        {
-            return false;
-        }
-        if(!isSameTree(p.right,q.right))
-        {
-            return false;
-        }
-        return true;
+        return (isSameTree(p.left,q.left)&&isSameTree(p.right,q.right));
     }
 }
