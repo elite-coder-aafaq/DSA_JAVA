@@ -27,16 +27,23 @@ class Solution {
     }
     public boolean findTarget(TreeNode root, int k) {
         inorder(root);
-        for(int i=0;i<arr.size()-1;i++)
-        {
-            for(int j=i+1;j<arr.size();j++)
-            {
-                if(arr.get(i)+arr.get(j)==k)
-                {
-                    return true;
-                }
+         int left = 0;
+        int right = arr.size() - 1;
+
+        while (left < right) {
+            int sum = arr.get(left) + arr.get(right);
+
+            if (sum == k) {
+                return true;
+            } 
+            else if (sum < k) {
+                left++;
+            } 
+            else {
+                right--;
             }
         }
+
         return false;
     }
 }
