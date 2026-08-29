@@ -21,6 +21,7 @@
 | [0202-happy-number](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0202-happy-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0202-happy-number](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0202-happy-number/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 |  |
@@ -145,6 +147,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -162,6 +165,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -181,6 +185,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -192,6 +197,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -225,5 +231,6 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
