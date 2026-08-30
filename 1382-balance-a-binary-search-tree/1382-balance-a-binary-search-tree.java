@@ -39,8 +39,8 @@ class Solution {
     }
     public TreeNode balanceBST(TreeNode root) {
         inorder(root);
-        int start=0;
-        int last=arr.size()-1;
-        return CreateBST(arr,start,last);
+        int st=0;
+        int end=arr.size()-1;
+        return CreateBST(arr,st,end);
     }
 }
