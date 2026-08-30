@@ -156,6 +156,7 @@
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -175,6 +176,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -200,6 +202,7 @@
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -216,6 +219,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -252,5 +256,10 @@
 | [0450-delete-node-in-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
