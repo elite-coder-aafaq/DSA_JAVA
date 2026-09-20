@@ -155,6 +155,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
@@ -176,6 +177,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -201,6 +203,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
@@ -215,6 +218,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
