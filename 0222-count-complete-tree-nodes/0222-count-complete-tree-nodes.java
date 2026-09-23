@@ -1,36 +1,46 @@
 class Solution {
+
     public int countNodes(TreeNode root) {
-        if (root == null)
+
+        if (root == null) {
             return 0;
+        }
 
-        int lh = leftHeight(root);
-        int rh = rightHeight(root);
+        int leftHeight = getLeftHeight(root);
+        int rightHeight = getRightHeight(root);
 
-        if (lh == rh)
-            return (1 << lh) - 1;
+        // Perfect binary tree
+        if (leftHeight == rightHeight) {
+            return (int)Math.pow(2, leftHeight) - 1;
+        }
 
+        // Not perfect
         return 1 + countNodes(root.left) + countNodes(root.right);
     }
 
-    public int leftHeight(TreeNode root) {
-        int h = 0;
+
+    int getLeftHeight(TreeNode root) {
+
+        int height = 0;
 
         while (root != null) {
-            h++;
+            height++;
             root = root.left;
         }
 
-        return h;
+        return height;
     }
 
-    public int rightHeight(TreeNode root) {
-        int h = 0;
+
+    int getRightHeight(TreeNode root) {
+
+        int height = 0;
 
         while (root != null) {
-            h++;
+            height++;
             root = root.right;
         }
 
-        return h;
+        return height;
     }
 }
