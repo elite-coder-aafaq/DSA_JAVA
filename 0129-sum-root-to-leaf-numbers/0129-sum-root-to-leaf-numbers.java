@@ -26,7 +26,7 @@ class Solution {
         sum=sum*10+(root.val);
         if(root.left==null&&root.right==null)
         {
-            sums.add(sum);
+            fnl+=(sum);
             sum=sum/10;
             return;
         }
@@ -37,10 +37,6 @@ class Solution {
     }
     public int sumNumbers(TreeNode root) {
         helper(root);
-        for(int i=0;i<sums.size();i++)
-        {
-            fnl+=sums.get(i);
-        }
         return fnl;
     }
 }
