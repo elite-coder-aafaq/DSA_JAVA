@@ -30,9 +30,10 @@ class Solution {
             sum=sum/10;
             return;
         }
-        helper(root.left);       
+        helper(root.left);
         helper(root.right);
-        sum=sum/10;
+        sum=sum/10; 
+ 
     }
     public int sumNumbers(TreeNode root) {
         helper(root);
