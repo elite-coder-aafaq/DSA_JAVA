@@ -160,6 +160,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -184,6 +185,7 @@
 | [0572-subtree-of-another-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -214,6 +216,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/elite-coder-aafaq/DSA_JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
